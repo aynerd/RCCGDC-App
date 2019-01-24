@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3C2CA0</color>
+    <color name="colorPrimaryDark">#180C62</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="app_bar">#c5d7ff</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="tan_background">#FFF7DA</color>
+
+
+    <color name="material50Green">#559974</color>
+    <color name="material100Green">#FB08C6</color>
+    <color name="material150Green">#D66635</color>
+    <color name="material200Green">#3908FB</color>
+    <color name="material250Green">#00FFFF</color>
+    <color name="material300Green">#C4302B</color>
+    <color name="material350Green">#F6ED0B</color>
+    <color name="material400Green">#0895FB</color>
+    <color name="material450Green">#C21975</color>
+    <color name="material500Green">#4CAF50</color>
+    <color name="material550Green">#BDBDBD</color>
+    <color name="material600Green">#E09B3D</color>
+    <color name="material650Green">#7024C4</color>
+    <color name="material700Green">#FF0404</color>
+    <color name="material750Green">#3CA8F7</color>
+    <color name="material800Green">#FE84C6</color>
+    <color name="material850Green">#FF6600</color>
+    <color name="material900Green">#55CD6C</color>
+
+    <color name="blue1">#66a3ff</color>
+    <color name="blue2">#0033cc</color>
+    <color name="linkBlue">#4d94ff</color>
+    <color name="blue3">#00c4cc</color>
+    <color name="blue4">#00aab1</color>
+    <color name="blue5">#007f85</color>
+    <color name="White">#fff</color>
+    <color name="Grey">#c3c3c3 </color>
+    <color name="DarkGrey">#737373 </color>
+
+</resources>
